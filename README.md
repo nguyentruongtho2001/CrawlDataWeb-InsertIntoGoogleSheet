@@ -23,5 +23,5 @@ Step 5: Extract the downloaded ChromeDriver file and copy the path into the code
 
 Done!
 
-Watch Result
+Watch Result https://github.com/nguyentruongtho2001/Demo-Selenium/blob/master/demo-selenium.mp4
 
