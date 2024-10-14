@@ -22,3 +22,6 @@ Step 4: Create a Google Sheet
 Step 5: Extract the downloaded ChromeDriver file and copy the path into the code: System.setProperty("webdriver.chrome.driver", "[path]/chromedriver.exe");  <br>
 
 Done!
+
+Watch Result
+
